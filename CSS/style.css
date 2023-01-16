@@ -2,7 +2,7 @@ body{
     font-family: 'Roboto', sans-serif;
     margin: 0 auto;
     background: rgb(11,4,119);
-    background: linear-gradient(90deg, rgba(11,4,119,1) 0%, rgba(9,9,121,1) 2%, rgba(198,229,236,0.9051995798319328) 48%, rgba(255,255,255,1) 100%);
+    background: linear-gradient(90deg, rgb(18, 11, 117) 0%, rgb(47, 47, 153) 2%, rgba(198,229,236,0.9051995798319328) 48%, rgba(255,255,255,1) 100%);
 }
 .section{
     margin: 0 auto;
