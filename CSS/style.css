@@ -111,7 +111,7 @@ p{
 .courses-languages{
     display: flex;
     flex-direction: row;
-    gap: 230px;
+    gap: 150px;
 }
 .nav-list img{
     width: 100px;
